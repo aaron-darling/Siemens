@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "viewer.js",
+  "scripts": {
+    "start": "node viewer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaron-darling/Siemens.git"
+  },
+  "author": "Aaron Darling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaron-darling/Siemens/issues"
+  },
+  "homepage": "https://github.com/aaron-darling/Siemens#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
